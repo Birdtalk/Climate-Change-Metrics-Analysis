@@ -1,2 +1,2 @@
 # Climate-Change-Metrics-Analysis
-This is an Analysis of Climate Change Metrics using R
+This is an Analysis of Climate Change Metrics using R and resulting report.
